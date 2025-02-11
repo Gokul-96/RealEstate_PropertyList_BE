@@ -21,4 +21,8 @@ Backend Server running on (http://localhost: 8000)
 
 npm start or node server.js - For start the backend development server.
 
+Backend Deployed Link : https://realestate-propertylist-be.onrender.com
+
+
+
 
