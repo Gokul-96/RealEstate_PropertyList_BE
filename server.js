@@ -23,4 +23,4 @@ app.listen(PORT, () => {
   console.log(`Server running on http://localhost:${PORT}`);
 });
 
-//node server.js
+//node server.js (or) npm start
