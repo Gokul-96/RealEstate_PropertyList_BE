@@ -1,5 +1,7 @@
 const Property = require('../models/Property');
 
+
+//
 //get all property
 
 exports.getAllProperty = async (req, res)=>{
